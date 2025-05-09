@@ -1,4 +1,4 @@
-# Customer Churn Prediction with Machine Learning
+# Handling Class Imbalance Problem in Churn Prediction
 
 ## 📌 Project Overview
 
